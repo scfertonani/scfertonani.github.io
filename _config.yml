@@ -4,7 +4,7 @@ description: 'Business Card Page'
 url: 'https://scfertonani.github.io'
 baseurl: ''
 profilepic: '/images/profile.jpeg'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/background.png'
 google_analytics: UA-XXXXXX-X
 font_awesome: '9046246d36.js'
 
